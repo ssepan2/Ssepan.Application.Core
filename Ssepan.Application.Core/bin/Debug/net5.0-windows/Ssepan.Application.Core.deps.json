@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ssepan.Application.Core/1.0.0": {
+        "dependencies": {
+          "Ssepan.Io.Core": "1.0.0",
+          "Ssepan.Utility.Core": "1.0.0"
+        },
+        "runtime": {
+          "Ssepan.Application.Core.dll": {}
+        }
+      },
+      "Ssepan.Io.Core/1.0.0": {
+        "dependencies": {
+          "Ssepan.Utility.Core": "1.0.0"
+        },
+        "runtime": {
+          "Ssepan.Io.Core.dll": {}
+        }
+      },
+      "Ssepan.Utility.Core/1.0.0": {
+        "runtime": {
+          "Ssepan.Utility.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ssepan.Application.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ssepan.Io.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ssepan.Utility.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
