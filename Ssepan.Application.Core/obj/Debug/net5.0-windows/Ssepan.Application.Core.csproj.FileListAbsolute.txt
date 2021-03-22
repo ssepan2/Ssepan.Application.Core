@@ -1,10 +1,3 @@
-F:\Projects\VisualStudio\Ssepan.Application.Core\Ssepan.Application.Core\obj\Debug\net5.0-windows\Ssepan.Application.Core.csprojAssemblyReference.cache
-F:\Projects\VisualStudio\Ssepan.Application.Core\Ssepan.Application.Core\obj\Debug\net5.0-windows\Ssepan.Application.PropertyDialog.resources
-F:\Projects\VisualStudio\Ssepan.Application.Core\Ssepan.Application.Core\obj\Debug\net5.0-windows\Ssepan.Application.SelectDialog.resources
-F:\Projects\VisualStudio\Ssepan.Application.Core\Ssepan.Application.Core\obj\Debug\net5.0-windows\Ssepan.Application.Core.Properties.Resources.resources
-F:\Projects\VisualStudio\Ssepan.Application.Core\Ssepan.Application.Core\obj\Debug\net5.0-windows\Ssepan.Application.Core.csproj.GenerateResource.cache
-F:\Projects\VisualStudio\Ssepan.Application.Core\Ssepan.Application.Core\obj\Debug\net5.0-windows\Ssepan.Application.Core.GeneratedMSBuildEditorConfig.editorconfig
-F:\Projects\VisualStudio\Ssepan.Application.Core\Ssepan.Application.Core\obj\Debug\net5.0-windows\Ssepan.Application.Core.csproj.CoreCompileInputs.cache
 F:\Projects\VisualStudio\Ssepan.Application.Core\Ssepan.Application.Core\bin\Debug\net5.0-windows\Ssepan.Application.Core.deps.json
 F:\Projects\VisualStudio\Ssepan.Application.Core\Ssepan.Application.Core\bin\Debug\net5.0-windows\Ssepan.Application.Core.dll
 F:\Projects\VisualStudio\Ssepan.Application.Core\Ssepan.Application.Core\bin\Debug\net5.0-windows\ref\Ssepan.Application.Core.dll
@@ -13,6 +6,13 @@ F:\Projects\VisualStudio\Ssepan.Application.Core\Ssepan.Application.Core\bin\Deb
 F:\Projects\VisualStudio\Ssepan.Application.Core\Ssepan.Application.Core\bin\Debug\net5.0-windows\Ssepan.Utility.Core.dll
 F:\Projects\VisualStudio\Ssepan.Application.Core\Ssepan.Application.Core\bin\Debug\net5.0-windows\Ssepan.Io.Core.pdb
 F:\Projects\VisualStudio\Ssepan.Application.Core\Ssepan.Application.Core\bin\Debug\net5.0-windows\Ssepan.Utility.Core.pdb
+F:\Projects\VisualStudio\Ssepan.Application.Core\Ssepan.Application.Core\obj\Debug\net5.0-windows\Ssepan.Application.Core.csprojAssemblyReference.cache
+F:\Projects\VisualStudio\Ssepan.Application.Core\Ssepan.Application.Core\obj\Debug\net5.0-windows\Ssepan.Application.Core.Properties.Resources.resources
+F:\Projects\VisualStudio\Ssepan.Application.Core\Ssepan.Application.Core\obj\Debug\net5.0-windows\Ssepan.Application.PropertyDialog.resources
+F:\Projects\VisualStudio\Ssepan.Application.Core\Ssepan.Application.Core\obj\Debug\net5.0-windows\Ssepan.Application.SelectDialog.resources
+F:\Projects\VisualStudio\Ssepan.Application.Core\Ssepan.Application.Core\obj\Debug\net5.0-windows\Ssepan.Application.Core.csproj.GenerateResource.cache
+F:\Projects\VisualStudio\Ssepan.Application.Core\Ssepan.Application.Core\obj\Debug\net5.0-windows\Ssepan.Application.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\VisualStudio\Ssepan.Application.Core\Ssepan.Application.Core\obj\Debug\net5.0-windows\Ssepan.Application.Core.csproj.CoreCompileInputs.cache
 F:\Projects\VisualStudio\Ssepan.Application.Core\Ssepan.Application.Core\obj\Debug\net5.0-windows\Ssepan.Application.Core.csproj.CopyComplete
 F:\Projects\VisualStudio\Ssepan.Application.Core\Ssepan.Application.Core\obj\Debug\net5.0-windows\Ssepan.Application.Core.dll
 F:\Projects\VisualStudio\Ssepan.Application.Core\Ssepan.Application.Core\obj\Debug\net5.0-windows\ref\Ssepan.Application.Core.dll
