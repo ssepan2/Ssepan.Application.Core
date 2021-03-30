@@ -9,8 +9,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Compile Remove="Interfaces\AboutDialog.cs" />
-    <Compile Remove="Interfaces\AboutDialog.Designer.cs" />
     <Compile Remove="WinForms\ClickOnce.cs" />
   </ItemGroup>
 

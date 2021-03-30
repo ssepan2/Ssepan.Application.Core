@@ -17,3 +17,4 @@ F:\Projects\VisualStudio\Ssepan.Application.Core\Ssepan.Application.Core\obj\Deb
 F:\Projects\VisualStudio\Ssepan.Application.Core\Ssepan.Application.Core\obj\Debug\net5.0-windows\Ssepan.Application.Core.dll
 F:\Projects\VisualStudio\Ssepan.Application.Core\Ssepan.Application.Core\obj\Debug\net5.0-windows\ref\Ssepan.Application.Core.dll
 F:\Projects\VisualStudio\Ssepan.Application.Core\Ssepan.Application.Core\obj\Debug\net5.0-windows\Ssepan.Application.Core.pdb
+F:\Projects\VisualStudio\Ssepan.Application.Core\Ssepan.Application.Core\obj\Debug\net5.0-windows\Ssepan.Application.Core.AboutDialog.resources
